@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info>
+	<id>offilibre</id>
+	<name>OffiLibre - OffiDocs LibreOffice Online</name>
+	<description>OffiLibre - OffiDocs LibreOffice Online allows to create and edit word documents, xls preadsheets and ppt presentations. It is an integration with a LibreOffice Online host solution deployed in http://www.offidocs.com</description>
+	<summary>Edit office documents directly in your browser.</summary>
+	<licence>AGPL</licence>
+	<version>0.8.1</version>
+	<author>OffiDocs</author>
+	<bugs>https://github.com/owncloud/offilibre/issues</bugs>
+	<repository type="git">https://github.com/owncloud/offilibre.git</repository>
+	<category>office</category>
+	<category>integration</category>
+	<dependencies>
+		<owncloud min-version="8.2" max-version="9.2" />
+	</dependencies>
+	<ocsid>904727</ocsid>
+</info>
